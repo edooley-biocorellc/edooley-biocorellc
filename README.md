@@ -1,6 +1,9 @@
-## Hi there 👋
+# Hi. My name is Evan.
+I am a Ph.D. researcher trained in human motion biomechanics, striving to understand how we move and why we move; to help people move better, no matter what better means to them.
 
-<!--
+To learn more about me and what I've been working on, feel free to visit my website: [eadooley.com](eadooley.com).
+
+<!-- 
 **edooley-biocorellc/edooley-biocorellc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
